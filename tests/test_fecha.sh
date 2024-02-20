@@ -3,7 +3,7 @@ test_fecha() {
 }
 
 main() {
-	source ../../shunit2/shunit2
+	source ../shunit2/shunit2
 }
 
 main "$@"
