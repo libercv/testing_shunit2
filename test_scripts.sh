@@ -8,7 +8,7 @@ test_suma() {
 }
 
 main() {
-	source shunit2/shunit2
+	source ./shunit2
 }
 
 main "$@"
